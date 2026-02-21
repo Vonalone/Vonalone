@@ -4,17 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vonalone&label=Profile%20views&color=0e75b6&style=flat" alt="vonalone" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vonalone" alt="vonalone" /></a> </p>
-
-- 🔭 I’m currently working on [SPRING-CORE-LEARNING](https://github.com/Vonalone/SPRING-CORE-LEARNING)
-
-- 🌱 I’m currently learning **Cloud & Deployment**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vonalone](https://github.com/Vonalone)
-
-- 💬 Ask me about **react, java and spring**
-
-- 📫 How to reach me **h.hared707@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hicham hared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hicham hared" height="30" width="40" /></a>
